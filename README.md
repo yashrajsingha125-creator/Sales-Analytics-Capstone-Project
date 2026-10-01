@@ -33,6 +33,13 @@
 <img width="1165" height="617" alt="Screenshot 2026-10-01 080905" src="https://github.com/user-attachments/assets/94581068-5f24-4a1a-b11b-f6112c1ed6df" />
 <br><br>
 
+<h3>Which products have the highest sales volume? </h3>
+<img width="1287" height="710" alt="image" src="https://github.com/user-attachments/assets/a5c63f1e-4db0-4b87-b233-c96810e4a5b3" />
+<br><br>
+
+<h3>How does the sales volume vary across different product categories? </h3>
+<img width="1307" height="715" alt="image" src="https://github.com/user-attachments/assets/312a7e95-5c5f-4b02-8b72-823640f3fc8d" />
+<br><br>
 
 
 

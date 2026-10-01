@@ -41,6 +41,10 @@
 <img width="1307" height="715" alt="image" src="https://github.com/user-attachments/assets/312a7e95-5c5f-4b02-8b72-823640f3fc8d" />
 <br><br>
 
+<h3>What is the geographical distribution of suppliers?</h3>
+<img width="1307" height="722" alt="image" src="https://github.com/user-attachments/assets/1e3e3766-7ffa-4cbd-b34e-dda374ba0d83" />
+<br><br>
+
 
 
 
